@@ -1,0 +1,11 @@
+UNTOLD,music festival,3.8.2023.17.20,44,https://untold.com/
+NEVERSEA,music festival,6.7.2023.17.10,99,https://neversea.com/
+ELECTRIC CASTLE,music festival,19.7.2023.17.50,101,https://electriccastle.ro/
+SUMMER WELL,music festival,11.8.2023.12.30,87,https://summerwell.ro/
+Street FOOD festival,food festival,25.5.2022.11.30,76,https://visitcluj.ro/events/street-food-festival-2/
+SAGA,music festival,23.7.2023.23.25,544,https://www.sagafestival.com/tickets/?gclid=CjwKCAjwue6hBhBVEiwA9YTx8BUp66aQR
+Sports Festival,sport festival,4.6.2023.12.0,65,https://www.sportsfestival.com/aleargaPentruCluj/?gclid=CjwKCAjwue6hB
+Vest Fest,music festival,16.6.2023.18.0,167,https://vestfest.ro/
+TIFF,film festival,9.6.2023.12.50,203,https://tiff.ro/
+Retro Music Festival,music festival,7.8.2023.15.5,243,http://retromusicfestival.ro/
+ff,gdsjy,1.2.3.4.5,56,www

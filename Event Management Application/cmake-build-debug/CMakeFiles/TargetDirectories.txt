@@ -1,0 +1,4 @@
+C:/Users/Carla/Facultate/An1/Sem 2/OOP/labs/a8/a89-Carla021/cmake-build-debug/CMakeFiles/a89_Carla021.dir
+C:/Users/Carla/Facultate/An1/Sem 2/OOP/labs/a8/a89-Carla021/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Carla/Facultate/An1/Sem 2/OOP/labs/a8/a89-Carla021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Carla/Facultate/An1/Sem 2/OOP/labs/a8/a89-Carla021/cmake-build-debug/CMakeFiles/a89_Carla021_autogen.dir

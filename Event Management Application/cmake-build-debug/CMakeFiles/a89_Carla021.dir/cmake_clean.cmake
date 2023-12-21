@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/a89_Carla021_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/a89_Carla021_autogen.dir/ParseCache.txt"
+  "a89_Carla021_autogen"
+  "CMakeFiles/a89_Carla021.dir/GUI/GUI.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/GUI/GUI.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/GUI/usergui.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/GUI/usergui.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/a89_Carla021_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/a89_Carla021_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/domain/dateTime.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/domain/dateTime.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/domain/domain.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/domain/domain.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/main.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/main.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/repository/CSVRepository.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/repository/CSVRepository.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/repository/HTMLRepository.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/repository/HTMLRepository.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/repository/fake_repository.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/repository/fake_repository.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/repository/repository.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/repository/repository.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/repository/user_repository.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/repository/user_repository.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/services/services.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/services/services.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/services/user_services.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/services/user_services.cpp.obj.d"
+  "CMakeFiles/a89_Carla021.dir/validators/validators.cpp.obj"
+  "CMakeFiles/a89_Carla021.dir/validators/validators.cpp.obj.d"
+  "a89_Carla021.exe"
+  "a89_Carla021.exe.manifest"
+  "a89_Carla021.pdb"
+  "liba89_Carla021.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/a89_Carla021.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
